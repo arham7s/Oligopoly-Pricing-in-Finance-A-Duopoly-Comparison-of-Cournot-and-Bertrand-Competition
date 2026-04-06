@@ -266,70 +266,70 @@ TW:    3200  (DWL = 0)   |   3200  (DWL = 0)   |   2844  (DWL = 356)   |   2400 
 ### Chart 1 — Cournot Best Response Curves
 Two downward-sloping best-response lines intersecting at the Nash equilibrium. The intersection is the unique (q1, q2) pair where both firms are simultaneously on their best-response curve — neither wants to deviate.
 
-![Cournot Best Response](Images/01_cournot_best_response.png)
+![Cournot Best Response](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/01_cournot_best_response.png)
 
 ---
 
 ### Chart 2 — Bertrand Profit Heatmaps
 Side-by-side profit heatmaps across all (p1, p2) price combinations for each firm. Bright regions indicate high profit — they appear when a firm prices low while the rival prices high. This is the visual engine of Bertrand undercutting incentives.
 
-![Bertrand Heatmaps](Images/02_bertrand_heatmaps.png)
+![Bertrand Heatmaps](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/02_bertrand_heatmaps.png)
 
 ---
 
 ### Chart 3 — Bertrand Undercutting Dynamics
 For three fixed levels of the rival's price, shows how Firm 1's profit jumps discontinuously just below the rival's price, then collapses to zero at and above it. This discontinuity drives the Bertrand race to the bottom.
 
-![Bertrand Undercutting](Images/03_bertrand_undercutting.png)
+![Bertrand Undercutting](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/03_bertrand_undercutting.png)
 
 ---
 
 ### Chart 4 — Cournot vs Bertrand Four-Panel Comparison
 Bar charts comparing market price, total quantity, firm-level profits, and welfare (consumer and producer surplus stacked) side by side across both models at baseline parameters.
 
-![Model Comparison](Images/04_cournot_vs_bertrand_comparison.png)
+![Model Comparison](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/04_cournot_vs_bertrand_comparison.png)
 
 ---
 
 ### Chart 5 — Sensitivity to Demand Intercept (a)
 As market size grows, Cournot profits rise steeply and the Cournot-Bertrand price gap widens. Bertrand profits remain flat at zero regardless of market size.
 
-![Sensitivity a](Images/05_sensitivity_a.png)
+![Sensitivity a](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/05_sensitivity_a.png)
 
 ---
 
 ### Chart 6 — Sensitivity to Demand Slope (b)
 Steeper demand (higher b) compresses equilibrium prices and quantities in both models. The markup gap between Cournot and Bertrand narrows as demand becomes more inelastic.
 
-![Sensitivity b](Images/06_sensitivity_b.png)
+![Sensitivity b](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/06_sensitivity_b.png)
 
 ---
 
 ### Chart 7 — Sensitivity to Firm 1 Marginal Cost (c1)
 Higher Firm 1 cost shrinks its output and profit under Cournot. Under Bertrand, the equilibrium price rises exactly with MC — confirming p* = MC holds always.
 
-![Sensitivity c1](Images/07_sensitivity_c1.png)
+![Sensitivity c1](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/07_sensitivity_c1.png)
 
 ---
 
 ### Chart 8 — Sensitivity to Firm 2 Marginal Cost (c2)
 As Firm 2 becomes more expensive, Firm 1 gains Cournot market share. Under Bertrand, market leadership shifts to Firm 1 once c1 is below c2.
 
-![Sensitivity c2](Images/08_sensitivity_c2.png)
+![Sensitivity c2](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/08_sensitivity_c2.png)
 
 ---
 
 ### Chart 9 — Asymmetric Firms: Cournot Quantities and Profits
 As the cost gap widens from symmetric (c1=c2=20) to extreme asymmetry (c1=5, c2=45), Firm 1 increasingly dominates quantity and profit. Firm 2 shrinks but always survives under Cournot — unlike under Bertrand.
 
-![Asymmetric Cournot](Images/09_asymmetric_cournot.png)
+![Asymmetric Cournot](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/09_asymmetric_cournot.png)
 
 ---
 
 ### Chart 10 — Welfare Analysis Across Market Structures
 Left panel: stacked bar chart of consumer surplus, producer surplus, and deadweight loss for all four market structures. Right panel: demand-curve geometry showing the CS triangle, PS rectangle, and DWL triangle for Cournot vs perfect competition.
 
-![Welfare Analysis](Images/10_welfare_analysis.png)
+![Welfare Analysis](https://github.com/arham7s/Oligopoly-Pricing-in-Finance-A-Duopoly-Comparison-of-Cournot-and-Bertrand-Competition/blob/main/Outputs/10_welfare_analysis.png)
 
 ---
 
@@ -544,17 +544,7 @@ Bertrand achieves first-best welfare. Cournot generates about 44% of the monopol
 
 ---
 
-## 16. Alternative Project Titles
-
-1. **Oligopoly Pricing in Finance: A Duopoly Comparison of Cournot and Bertrand Competition** — current title
-2. **Strategic Competition Under Duopoly: Simulating Cournot and Bertrand Models with Finance Applications**
-3. **Price Wars vs Quantity Discipline: A Game-Theoretic Simulation of Duopoly Markets**
-4. **From Rate Wars to Volume Strategy: Applying Cournot and Bertrand Theory to Financial Markets**
-5. **Duopoly Equilibrium and Market Outcomes: A Python Simulation with Banking and Fintech Case Studies**
-
----
-
-## 17. References
+## 16. References
 
 - Cournot, A. A. (1838). *Researches into the Mathematical Principles of the Theory of Wealth*. Translated by N. T. Bacon (1897).
 - Bertrand, J. (1883). Review of Walras and Cournot. *Journal des Savants*, 67, 499–508.
